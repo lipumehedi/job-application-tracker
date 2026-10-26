@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Example Inc.",
+    "position": "Backend Engineer",
+    "platform": "Indeed",
+    "applied_on": "2026-10-26",
+    "status": "interview",
+    "note": ""
+  },
+  {
+    "company": "UT Group",
+    "position": "Manufacturing Staff",
+    "platform": "doda",
+    "applied_on": "2026-10-26",
+    "status": "applied",
+    "note": ""
+  },
+  {
+    "company": "KandO",
+    "position": "System Engineer",
+    "platform": "Indeed",
+    "applied_on": "2026-10-24",
+    "status": "applied",
+    "note": ""
+  }
+]
