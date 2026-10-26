@@ -51,12 +51,12 @@ python -m unittest discover
 
 ## Project structure
 
-``
+```
 job-application-tracker/
 ├── job_tracker.py        # main program
 ├── test_job_tracker.py   # unit tests
 └── README.md
-``
+```
 
 ## What I learned
 
